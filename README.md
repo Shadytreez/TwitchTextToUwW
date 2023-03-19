@@ -1,6 +1,9 @@
 # TwitchTextToUwW
-A chat bot for twitch that change text given and return back the same text but in uwu format
+A chat bot for twitch that change text given and return back the same text but in uwu format using ChatGPT
 
+## Technolgy Used
+1. Twitch chat api
+2. ChatGPT
 
 ## Set up
 1. Download node.js if you don't have it installed.
